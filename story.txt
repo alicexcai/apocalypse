@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "tag": "prophecy",
+    "title": "The First Prophecy",
+    "location": "Harvard Square",
+    "timestamp": "1 Month Before - Evening",
+    "description": "Jordan suffers a public panic attack, ranting about 'a filter coming soon' and 'heat with teeth.' Lila pulls him away, embarrassed. Ethan watches from a bench and records it on his phone out of curiosity.",
+    "characters": ["Jordan", "Lila", "Ethan"]
+  },
+  {
+    "id": 2,
+    "tag": "aurora_visit",
+    "title": "Aurora’s Filter",
+    "location": "Aurora’s Biotech Loft, Kendall Square",
+    "timestamp": "2.5 Weeks Before - Dusk",
+    "description": "Ethan visits Aurora in her minimalist loft. Sunlight blisters through UV-tinted glass. Aurora explains her 'Ascension Protocol'—a plan to select cognitively superior individuals to survive the coming collapse. Ethan listens quietly, questioning whether she believes survival is worth it without empathy. Aurora responds, 'Empathy is an evolutionary liability. You should join us. You were never built for the crowd.' Ethan leaves without responding.",
+    "characters": ["Ethan", "Aurora"]
+  },
+  {
+    "id": 3,
+    "tag": "sensing_shift",
+    "title": "Something in the Air",
+    "location": "Kapoor Family Apartment, Medford",
+    "timestamp": "2 Weeks Before - Sunset",
+    "description": "Meera tells Isha the sun 'feels too close.' Isha whispers that 'the mirrors are starting to hum.' Their parents are asleep, unaware. Meera draws the window four times in a row, each with a brighter sun.",
+    "characters": ["Meera", "Isha"]
+  },
+  {
+    "id": 4,
+    "tag": "blackout",
+    "title": "Blackout in the Library",
+    "location": "Lamont Library, Harvard",
+    "timestamp": "Day 0 - Afternoon",
+    "description": "Trapped together when the grid fails. Ethan tries to rationalize; Meera seems calm. Morana offers his theater for shelter. Isha murmurs: 'This is the thinning.' Sets early alliances between Ethan, the Kapoor sisters, and Morana.",
+    "characters": ["Ethan", "Meera", "Isha", "Morana"]
+  },
+  {
+    "id": 5,
+    "tag": "yard_collapse",
+    "title": "Collapse in Harvard Yard",
+    "location": "Harvard Yard",
+    "timestamp": "Day 1 - Morning",
+    "description": "Lila tries to organize food lines. Micah prays aloud. Caleb offers sanctuary. Morana watches, says nothing, then retreats. Conflicting leadership styles emerge: action (Lila) vs. faith (Caleb) vs. preservation (Morana).",
+    "characters": ["Lila", "Caleb", "Micah", "Morana"]
+  },
+  {
+    "id": 6,
+    "tag": "first_dream",
+    "title": "Meera's Dream Map",
+    "location": "The Archive",
+    "timestamp": "Day 2 - Night",
+    "description": "Meera wakes up screaming. She’s drawn a detailed map of Cambridge showing water sources, heat patterns, and faction zones — before they form. Isha traces one line and says, 'They’ll try to take us from here.'",
+    "characters": ["Meera", "Isha"]
+  },
+  {
+    "id": 7,
+    "tag": "aurora_offer",
+    "title": "Aurora’s Offer",
+    "location": "Various locations across Cambridge",
+    "timestamp": "Day 3 - Evening",
+    "description": "A drone drops encrypted tablets with invitations: 'You are selected.' Ethan is torn. Lila burns hers. Meera stares at hers for hours. First clear exposure of Aurora’s agenda. Philosophical fault lines widen.",
+    "characters": ["Aurora", "Ethan", "Meera", "Lila"]
+  },
+  {
+    "id": 8,
+    "tag": "jordan_followers",
+    "title": "Jordan’s Followers Split the Yard",
+    "location": "Harvard Yard Courtyard",
+    "timestamp": "Day 5 - Late Afternoon",
+    "description": "Jordan saves a group with a sudden heat-blast prediction. Some believe he's touched by God. Micah’s uneasy. Lila urges him to stop talking publicly — 'You’re becoming a lightning rod.' Yard Sanctuary fractures: God’s vessel or dangerous distraction?",
+    "characters": ["Jordan", "Lila", "Micah", "Caleb"]
+  },
+  {
+    "id": 9,
+    "tag": "lila_reckoning",
+    "title": "Lila’s Reckoning",
+    "location": "Harvard Dorm Basement",
+    "timestamp": "Day 6 - Early Morning",
+    "description": "After her team loses members in a water raid, Lila breaks down for the first time. Jordan finds her crying. She asks, 'Why do they believe you, but not me?' He replies: 'Because I’m not trying to lead.'",
+    "characters": ["Lila", "Jordan"]
+  },
+  {
+    "id": 10,
+    "tag": "archive_extraction",
+    "title": "Failed Extraction from the Archive",
+    "location": "The Archive Theater",
+    "timestamp": "Day 9 - Night",
+    "description": "Aurora attempts to 'reclaim' Meera and Isha. Ethan blocks it. Meera chooses to stay with Morana. Isha whispers: 'She’s dying on the inside.' Ethan finally rejects Aurora. Meera and Isha find spiritual protection in The Archive.",
+    "characters": ["Aurora", "Ethan", "Morana", "Meera", "Isha"]
+  },
+  {
+    "id": 11,
+    "tag": "final_broadcasts",
+    "title": "The Final Broadcasts – Fragmented Futures",
+    "location": "Cambridge rooftops, tunnels, servers",
+    "timestamp": "Day 11 - Final Day",
+    "description": "Each enclave sends out a final message. Aurora calls for ascension. Caleb & Micah preach grace. Lila pleads for cooperation. Morana sends silent art. Jordan questions everything. No unity. No conclusion. Only offers. Invitations. Echoes.",
+    "characters": ["Aurora", "Caleb", "Micah", "Lila", "Morana", "Jordan", "Meera", "Isha", "Ethan"]
+  }
+]

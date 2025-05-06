@@ -1,0 +1,172 @@
+Before everything went strange, Meera used to like drawing clouds.
+
+She had notebooks full of them—some shaped like birds, some like bones, some like houses. Her mom once said she was going to be an architect. Her dad said maybe an astronaut.
+
+But Meera didn’t want to go to space. She wanted to understand the sky here. Why it changed color so fast. Why it made her feel like it was trying to tell her something. Especially in the evenings.
+
+Especially lately.
+
+They lived in a top-floor apartment in Medford, in a place that smelled like old rice and hot paint. Her little sister Isha liked to sleep under the kitchen table. Their parents were always working—one at MIT, one somewhere with climate reports.
+
+Lately, the air tasted weird. The wind didn’t blow right. The clouds had started curling in the wrong direction.
+
+And no one was saying anything.
+
+So Meera started drawing suns instead.
+
+
+{
+  "id": 3,
+  "title": "The Sun Is Getting Closer",
+  "content": "The light through the window was orange. Not warm orange. *Sharp* orange.
+
+Meera sat by the glass and drew four suns, each one a little bigger than the last. She didn’t know why. She just knew it felt right.
+
+'Isha,' she whispered, 'does the air feel funny to you?'
+
+Her sister was lying on the floor, talking to the ceiling.
+
+'The mirrors are starting to hum,' Isha said, very softly. Her eyes didn’t blink.
+
+Their parents were asleep on the couch. The TV was buzzing with a news station that kept repeating the same phrase: “Please remain indoors. This is a temporary disruption.”
+
+Meera got up and closed the window.
+
+She looked back at her drawing. The last sun had teeth."
+}
+After that, things moved quickly. The power blinked. School stopped. Her mom left one morning with her badge and never came home. Her dad followed two days later, leaving a note Meera didn’t read.
+
+Meera packed her backpack with markers and string and two peanut butter sandwiches and took Isha to Harvard, where she’d heard there was still light.
+
+They ended up in a library with a boy who smelled like metal and coffee (Ethan), a quiet man who never blinked (Morana), and rows and rows of empty desks.
+
+Then the lights turned off for good.
+
+
+{
+  "id": 4,
+  "title": "The Thinning",
+  "content": "Meera was holding Isha’s hand when the lights blinked off like someone pinched them shut.
+
+Everything went still, like the air had been waiting for the silence.
+
+People around them murmured. Someone cursed. Ethan—the boy who didn’t like eye contact—stopped typing. Morana stood up and started walking like he already knew where to go.
+
+Meera stayed calm. She felt calm in the dark. The heat would come soon.
+
+Isha leaned close to Ethan and said, 'This is the thinning.'
+
+Nobody laughed. They just started moving.
+
+Meera took her sister’s hand again and followed the quiet man out of the library.
+
+They walked into a dark that wasn’t empty."
+}
+They ended up in a theater, with chairs that smelled like dust and velvet. Morana lived there now, maybe. He didn’t say much, but he gave them a corner and a bucket of clean water and a candle with three wicks.
+
+Meera started dreaming louder after that.
+
+
+{
+  "id": 6,
+  "title": "The Map Dream",
+  "content": "She woke up gasping.
+
+She didn’t know why.
+
+The candle had burned down to a stubble. Isha was curled next to her, twitching in sleep.
+
+Meera looked down at the paper in her lap. She had drawn it while asleep. She must have.
+
+It was Cambridge—but different. Lines and loops, marks where water still worked, places where fire might come, circles for the people who were still soft inside.
+
+She didn’t understand all of it. But she *knew* it.
+
+Isha sat up, blinking, and pointed at one line near the theater.
+
+'They’ll try to take us from here,' she said.
+
+Then she went back to sleep."
+}
+Meera showed it to Morana. He nodded once and hung it near the door.
+
+No one questioned it.
+
+Three days later, the drone came.
+
+
+{
+  "id": 7,
+  "title": "The Invitation",
+  "content": "It came buzzing like a wasp. Not angry—just loud.
+
+It dropped a silver triangle onto the rooftop. Meera watched it unfold on its own.
+
+Inside: a blinking light. A little card that said 'You are selected.' A voice that said the world was ending but not for everyone.
+
+Lila threw hers away. Ethan stared at his and said nothing.
+
+Meera picked hers up, turned it over, and over, and over.
+
+She didn’t cry.
+
+She just held it until it stopped blinking.
+
+Then she put it in her bag next to her string and peanut butter."
+}
+She didn’t want to go with the metal woman. Even if she offered safety. Even if she promised cool water and clean walls.
+
+Because safety that came with testing and measuring and locking meant Isha wouldn’t be allowed to whisper weird truths. It meant Meera would stop dreaming.
+
+She didn’t want to stop dreaming.
+
+
+{
+  "id": 10,
+  "title": "The Woman with No Warmth",
+  "content": "They came in the dark.
+
+Two men with masks. The tall woman stood behind them, hands folded like knives.
+
+Isha started crying. Ethan moved in front of them.
+
+'They’re not yours,' he said.
+
+Meera wanted to shout it too, but her mouth wouldn’t open.
+
+The tall woman just looked at them for a long time. Then she turned and left.
+
+Isha wiped her nose and whispered, 'She’s dying on the inside.'
+
+Meera didn’t ask what that meant.
+
+She believed it completely."
+}
+After that, they stayed mostly inside. The world outside was sharp and noisy. Inside, the quiet was thicker, safer.
+
+Morana played old songs on a busted speaker. Ethan stared at graphs that no longer mattered. Meera drew more maps. Most of them were wrong now. But she kept drawing anyway.
+
+On the last day, someone handed her a radio.
+
+She didn’t know how to use it, but Ethan turned the dial until the voices came.
+
+
+{
+  "id": 11,
+  "title": "The Last Sounds",
+  "content": "One by one, they spoke.
+
+The metal woman talked about survival. The quiet men with the cross talked about grace. Lila said something about community.
+
+Someone played music that made Meera cry, but she didn’t know why.
+
+Then the boy who used to scream in the square said, very softly: 'Maybe the world already ended. Maybe we didn’t notice.'
+
+Isha pressed her forehead to Meera’s shoulder.
+
+'He’s right,' she said.
+
+Meera closed her eyes.
+
+And for the first time in weeks, the sky outside the window looked soft again."
+}

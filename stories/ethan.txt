@@ -1,0 +1,183 @@
+Ethan Liang liked systems.
+
+He trusted patterns, not people. Even as a child in suburban Orange County, when his parents fought across rooms or moved the family from school district to school district to chase promotions, Ethan survived by mapping. He’d drawn family trees and mood graphs before he was ten. He could calculate the probability of silence after slammed doors with eerie precision.
+
+By high school, it was code. By college, it was cognitive networks, behavioral loops, and the beautiful certainty of machines. Systems didn’t lie. They didn’t break without reason. They didn't hurt just to hurt.
+
+At Harvard, he was studying both computer science and psychology—not because he loved people, but because he wanted to explain them. Or predict them. Or defend against them. His mind worked best in abstraction. He never denied it.
+
+So when the rumors began—climate surges, solar bursts, MIT encrypting satellite traffic—he logged them like a distant earthquake. Not his jurisdiction. Not part of the model.
+
+That was before the boy in the courtyard started screaming.
+
+
+{
+  "id": 1,
+  "title": "The Boy and the Filter",
+  "content": "It happened in Harvard Square, late in the afternoon. A wiry kid with messy hair stood on a bench, arms out like antennae. 'A filter is coming!' he screamed. 'You’ll burn, you’ll see! Heat with teeth!'
+
+People laughed, then frowned. One girl—his sister, probably—grabbed his arm and pulled him down. 'Jordan, stop it,' she hissed.
+
+Ethan sat across the courtyard, half-interested, phone already filming. Not because he believed the kid, but because the phrasing struck him. A filter? That wasn’t the language of panic. That was structural metaphor. Intentional or not, it was... intelligent.
+
+He saved the clip, tagged it “anomaly,” and moved on."
+}
+That night, he reread the last file Aurora Shin had sent him—“Cognitive Continuity in Collapse Scenarios.” Her usual techno-eugenic rhetoric, framed as humanitarian optimization. She believed the world was broken, and intelligence—not kindness, not cooperation—was what would inherit the ruins.
+
+He didn’t respond.
+
+But when she messaged again two weeks later—this time privately, with no whitepaper attached—he went.
+
+
+{
+  "id": 2,
+  "title": "The Ark That Filters",
+  "content": "The elevator to Aurora’s loft whispered open into a sterile glass rectangle. It smelled like ozone and eucalyptus. No art on the walls. Just a vertical hydroponic panel glowing like a soft-green server array.
+
+Aurora stood at the center, barefoot on polished concrete. Her posture was perfect. Behind her, the windows were tinted almost black—shielding the room from the ultraviolet overkill of the setting sun.
+
+'Still not convinced?' she asked.
+
+'I'm not unconvinced,' Ethan said. He stepped past a monolithic countertop with two cups. One of them contained a bright algae-green liquid.
+
+'Then you're halfway civilized,' she said. 'Drink. It'll level your blood sugar.'
+
+He drank. It tasted like soy and chlorine.
+
+'This is your pitch?' he asked. 'Snacks and sanctimony?'
+
+Aurora walked to the wall panel. A black tablet extended automatically from the surface. She tapped through a sequence of encrypted modules, then turned it to face him.
+
+A chart. Colored nodes. Names. Lines connecting them—some vibrant, others greyed out.
+
+'The Ascension Protocol,' she said. 'We’re cataloging neurological fidelity, pattern acuity, resilience markers. If civilization burns down, we don’t rebuild it with politicians and influencers. We do it with synaptic outliers.'
+
+'You're building an ark.'
+
+'I'm building a filter,' she said. 'One that lets only signal through. You included.'
+
+Ethan set down the cup.
+
+'Empathy?' he asked. 'Where does that fall on your chart?'
+
+'Low-yield, high-distraction.'
+
+He studied her face. Still calm. No visible malice. This was religion to her—algorithmic salvation.
+
+'You think being right will save you,' he said.
+
+'I think being useful will.'
+
+He didn’t reply. He left the loft, walked straight into the heat, and didn’t look back."
+}
+He had once written in a notebook, years ago: The more orderly the mind, the more fragile the assumptions. He didn’t know, then, that it would be his own.
+
+Weeks passed. The heat increased. The systems buckled. The simulations Ethan ran always ended the same: cascading collapse. Infrastructure couldn’t sustain this pressure.
+
+He went to the library to escape the spike in temperature.
+
+That’s when the lights died.
+
+
+{
+  "id": 4,
+  "title": "The Thinning",
+  "content": "Lamont Library was quiet when the lights died. Not the usual flicker—just a hard cutoff. Then the AC moaned and stopped.
+
+Ethan looked up from his laptop. Nothing. Total silence. Around him, students shifted in confusion, some already pulling out their phones, others moving toward the exits.
+
+The emergency lights didn’t come on.
+
+In the dimness, he heard footsteps—a girl’s voice: 'We need to get to lower floors. It’s going to get hot, fast.'
+
+Ethan recognized her from an earlier conversation—Meera, and her little sister, Isha. And someone else—Morana, the quiet theater kid with the notebook.
+
+Isha looked up at Ethan and said, with eerie calm, 'This is the thinning.'
+
+It didn’t sound like a child’s imagination. It sounded like a diagnosis.
+
+They moved together, instinctively, toward the basement. Ethan didn’t protest. For the first time in years, he didn’t lead. He followed."
+}
+Later, he would remember Isha’s whisper more than the blackout. It wasn’t fear. It was certainty. A soft and unshakable fact.
+
+He was not used to following. But something had shifted.
+
+In the Archive, everything slowed. Mornings were spent mapping. Afternoons hiding from the heat. Nights: debates with Morana, who thought art was all that would survive.
+
+Ethan disagreed. Pattern was survival. Memory was noise. But quietly, he began to feel the weight of contradiction.
+
+Then the drone came.
+
+
+{
+  "id": 7,
+  "title": "Selected",
+  "content": "The drone hovered like it knew where they were. It dropped the parcel—a sleek silver triangle that blinked once before unfolding.
+
+Ethan recognized the casing: Aurora.
+
+Inside was a neural key, a holomessage, and a short note: 'You are selected.'
+
+He didn’t open it immediately. Meera did. She sat with hers on her lap, unmoving.
+
+Lila arrived from the other rooftop minutes later. She read hers, scoffed, and hurled it down three stories.
+
+Ethan watched his fingers brush the top of the message module, then withdraw. His heart rate hadn’t changed. His hands weren’t shaking. But something inside him had snapped—like a model hitting divide-by-zero.
+
+He never activated the invitation."
+}
+He didn't talk about it. Not with Meera. Not with Lila. He didn’t need to. The lines had already been drawn. Aurora’s silence said everything.
+
+When the Protocol came to retrieve Meera and Isha, he stood at the door.
+
+
+{
+  "id": 10,
+  "title": "The Rejection",
+  "content": "The operatives came at dusk—two of them, cloaked and silent. Aurora stayed outside. She didn’t need to enter.
+
+Ethan stepped in front of Meera and Isha before they could speak.
+
+'You don’t have clearance for this zone,' the taller one said.
+
+'They’re not assets,' Ethan replied. 'They’re not yours.'
+
+The two men looked to Aurora, standing in silhouette beyond the door. She said nothing, only raised her hand—and they froze.
+
+Ethan met her eyes. Not angry, not even surprised. Just tired. They stared at each other for five long seconds.
+
+Finally, she lowered her hand.
+
+'Very well,' she said, and left.
+
+Meera collapsed into a chair, shaking. Isha whispered: 'She’s dying on the inside.'
+
+Ethan didn’t know which of them she meant."
+}
+He didn’t sleep that night. He lay on the theater floor, staring up at the cracked rafters, and listened to the sound of a city no longer humming.
+
+Two days later, someone handed him a cracked radio.
+
+
+{
+  "id": 11,
+  "title": "Last Signals",
+  "content": "He sat on the floor with the radio in his lap, static washing over him like wind. The voices came one by one:
+
+Aurora: 'To those who still measure with feeling: your time was beautiful, but it has passed.
+To those who will not kneel before gods or gods’ shadows: there is room for you here.
+To those who are ready to transcend: the Protocol will accept your calibration.'
+
+Caleb: 'The world ends not in fire, but in grace.'
+
+Lila: 'We don’t want your purity. We want each other.'
+
+Morana’s came with no voice. Just music. A single cello note. Images fading in and out.
+
+Then Jordan’s voice, weak and wavering: 'Maybe the world already ended. Maybe we didn’t notice.'
+
+Ethan turned off the radio, opened his notebook, and drew the final chart.
+
+X-axis: Days since collapse.  
+Y-axis: Fragments worth saving."
+}

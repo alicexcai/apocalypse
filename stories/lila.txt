@@ -1,0 +1,172 @@
+Lila Moreno had grown up knowing how to explain things.
+
+In middle school, she translated eviction notices to her neighbors because their English wasn’t strong and her Spanish wasn’t great, but it was just good enough. In high school, she gave speeches at city hall about rising flood zones and rent prices and public school mold. In college, she studied environmental justice and community resilience, because she believed — honestly, desperately — that the world didn’t have to fall apart if people were just given the right information at the right time.
+
+But when it started falling apart for real, no one wanted her speeches. No one wanted her flyers or her spreadsheets or her evacuation protocols. They wanted answers. Or miracles. Or someone to blame.
+
+Jordan, her brother, had stopped being the kid who hummed in his room and started being the boy who shouted things in public.
+
+Things like:
+
+
+{
+  "id": 1,
+  "title": "My Brother, the Warning Siren",
+  "content": "Harvard Square. Early evening. Lila was buying batteries she knew wouldn’t last.
+
+And Jordan — beautiful, impossible Jordan — was standing on a bench, arms spread like a scarecrow, shouting:
+
+'A filter is coming! You’ll burn! Heat with teeth!'
+
+She sprinted across the bricks and yanked him down, whisper-shouting into his face: 'Jordan, stop it. What are you doing?'
+
+He blinked at her like he didn’t recognize her voice. 'It’s going to get loud soon,' he said.
+
+She pulled him away by the arm. People were staring. She could feel their eyes like heat on her neck.
+
+Behind them, some Harvard boy recorded it on his phone.
+
+She didn’t care. Not then."
+}
+She had brought Jordan with her to Boston because he had no one else, and because he’d always made more sense to her than he did to anyone else. She didn’t believe what he said, but she believed he was trying.
+
+When the power grid failed, when the heat became a new kind of living thing, she didn’t panic. She pivoted.
+
+She started organizing people in Harvard Yard on Day One.
+
+
+{
+  "id": 5,
+  "title": "Chalk Lines and Crosses",
+  "content": "She used sidewalk chalk to draw emergency zones, ration lines, and safe walkways. She asked for volunteers. She rationed canned beans by caloric value. She told people where to sleep.
+
+Micah was preaching. Caleb was building a cross like it was a to-do list. And Morana just *watched*, like a crow waiting for the noise to die down.
+
+Lila didn’t have time to argue with any of them. Faith didn’t purify water. Sermons didn’t create shade. She needed labor and order and quiet.
+
+By nightfall, the temperature dropped five degrees, and no one had died.
+
+She considered that a win."
+}
+But winning meant nothing when no one agreed on the rules.
+
+Jordan kept pacing like he was listening to something no one else could hear.
+
+Ethan barely spoke, but he watched her like he was trying to fit her into a graph. That irritated her more than it should’ve.
+
+She couldn’t tell yet who would be useful. But she knew who was loud.
+
+Then came the drones.
+
+
+{
+  "id": 7,
+  "title": "Hell, No",
+  "content": "A silver drone dropped a triangle at her feet. She didn’t touch it.
+
+A voice came from the blinking shell:
+
+'You are selected.'
+
+She snorted. 'By who?'
+
+Ethan stared at his. Meera stared at hers. No one moved.
+
+She picked up the silver thing and threw it off the rooftop.
+
+It clattered three stories down and shattered like a plate.
+
+'No one gets to pick who survives,' she said.
+
+No one argued. Not out loud."
+}
+But people started whispering again. About Aurora. About structure. About salvation that came with a selection algorithm.
+
+Lila doubled down. She trained her team harder. She did water raids. She taught people how to tape plastic to their windows for insulation.
+
+And then Jordan opened his mouth again.
+
+
+{
+  "id": 8,
+  "title": "The Fracture",
+  "content": "Evening in the courtyard. Lila was checking water filters when Jordan walked into the center of the circle like he *owned* it.
+
+'Move the children,' he said. 'The heat’ll hit east buildings at moonrise. They’ll cook from the inside.'
+
+Micah stopped reading. Caleb raised his eyebrows. Everyone stared.
+
+Lila stood up. 'We don’t follow dreams.'
+
+Caleb didn’t say anything — just nodded. People started moving.
+
+The surge came like he said it would. Three buildings melted from the inside. No one died.
+
+The next day, people started asking Jordan what to do.
+
+Lila grabbed him by the arm later and said, 'You’re becoming a lightning rod.'
+
+He just looked at her and said nothing.
+
+She hated that silence worse than his shouting."
+}
+
+She lost two people in a water raid the next day. Good people.
+
+She stopped speaking for a while.
+
+Jordan found her on the floor of a basement with broken glass around her and her hands still bleeding.
+
+
+{
+  "id": 9,
+  "title": "Breaking Point",
+  "content": "He found her crying.
+
+She hadn’t cried since she was thirteen.
+
+She didn’t look at him when she said: 'Why do they believe you but not me?'
+
+Jordan sat beside her, quiet for a long time.
+
+Then he said, 'Because I’m not trying to lead.'
+
+She didn’t know if it was wisdom or cruelty.
+
+But it stuck in her ribs like a splinter."
+}
+By the time Aurora’s people stopped scouting and Caleb went quiet and even Micah prayed more than he spoke, Lila knew what her role really was.
+
+Not to win.
+
+Not to save.
+
+Just to hold the line long enough for someone else to figure out what came next.
+
+On the final day, when the batteries were low and the sky felt too close again, she climbed to the rooftop and picked up the transmitter.
+
+
+{
+  "id": 11,
+  "title": "Her Final Plea",
+  "content": "She didn’t write anything down.
+
+She just pressed the button and said:
+
+'If you’re listening, we’re still here. You don’t have to be alone. We don’t care what you scored or what you’ve built or what you believe. If you’re still trying — you’re one of us.'
+
+She paused.
+
+'We don’t want purity. We want each other.'
+
+Then she let the signal go.
+
+No answer came. But that was never the point."
+}
+Lila sat back, wiped her mouth, and watched the clouds shift.
+
+They weren’t as sharp as before.
+
+She wondered if the sky was finally softening, or if she was.
+
+She didn’t care either way.
